@@ -1,0 +1,22 @@
+usermodel me kya kya hoga mtlb schema me kya kya hoga
+
+1.full name-string
+2.email-string
+3.password-string
+4.cart-array
+5.isadmin-boleans
+6.orders-array
+7.contact-number
+8.picture-db
+
+
+
+prodeuct me kya kya hona chahiye
+
+image hona chahiye
+name
+price
+discount
+bgcolor
+panalcolor
+textcolor
